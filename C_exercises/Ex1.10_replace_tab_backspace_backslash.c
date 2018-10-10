@@ -15,7 +15,7 @@ void main()
 		}
 		else if (c == '\b') {
 			putchar('\\');
-			putchar('\b');
+			putchar('b');
 		}
 		else if (c == '\\') {
 			putchar(c);
