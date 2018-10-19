@@ -5,7 +5,7 @@
 #define IN 1 	// inspace (blank. tab, or newline)
 #define OUT 0	// outspace
 
-void main()
+main()
 {
 	int c, state;
 
